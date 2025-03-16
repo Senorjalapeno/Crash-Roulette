@@ -10,4 +10,4 @@ With the theme song of the "Godfather" playing in the background, it truly emula
 We created different versions so that if you want to test you could go for the easier version but if want the intensity you want to risk it all you could go for the harder version.
 
 We have 2 parts to it, the first is arduino to which we have connected buzzers, leds and a switch. It just serves a trigger for the roulette. When clicked, the trigger communicates to the python code which then plays out the crash roulette's main logic code.
-We have uploaded 2 different files for the python code, one is the safe version, but if you would like to up the stakes you can add the lines of code from the next file which can truly make your System32 vanish. 
+We have uploaded 2 different files for the python code, one is the safe version named _russroulett, but if you would like to up the stakes you can use deadly_russroulette which can truly make your System32 vanish. 
